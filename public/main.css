@@ -1,0 +1,73 @@
+hr {
+    border-style: none;
+    background-color: rgb(168, 172, 171);
+    height: 3px;
+}
+
+body{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:0%;
+    margin:0%; 
+    margin-top: -30px;
+}
+
+.titlebar {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(62, 156, 135);
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    color: rgb(74, 177, 154);
+}
+
+header{
+    width: 100%;
+    background-color: rgb(179, 202, 196);
+    padding: 0%;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    background-color: rgb(224, 235, 232);
+    margin-top: -23.5px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+nav li:hover{
+    color:grey;
+}
+
+div{
+    background-color: rgb(224, 235, 232);
+    padding-bottom: 5px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#menu{
+    margin-left: 2%;
+    font-size: x-large;
+}
+
+nav a{
+    color: seagreen;
+}
+
+nav a:hover{
+    color: grey;
+}
+
+#dipansh{
+    width: 210px;
+    height: 280px;
+}
